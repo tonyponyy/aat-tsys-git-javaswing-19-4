@@ -212,7 +212,7 @@ public class vista1 extends JFrame {
 					case "-":
 						resultado_operacion = n1 - n2;
 						break;
-					case "*":
+					case "X":
 						resultado_operacion = n1 * n2;
 						break;
 					case "/":
