@@ -16,7 +16,6 @@ import java.awt.event.ActionEvent;
 
 public class vista1 extends JFrame {
 
-	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 
 	JLabel resultado = new JLabel("0");
